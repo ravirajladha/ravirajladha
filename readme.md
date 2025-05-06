@@ -1,4 +1,4 @@
-# Hi, I'm Raviraj Ladha! 👋
+# Hi, I'm Ravi Raj Ladha! 👋
 
 I'm a passionate **Full-Stack Developer** specializing in **Laravel**, **MERN**, and **PHP MVC**. I build dynamic, secure web applications, from land document management systems to AI-powered resume analyzers. My portfolio showcases my expertise in creating user-friendly, scalable solutions.
 
@@ -15,8 +15,8 @@ I'm a passionate **Full-Stack Developer** specializing in **Laravel**, **MERN**,
 - **APIs**: OpenAI, RESTful APIs
 
 ## 📫 Connect with Me
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [your.email@example.com](mailto:ravirajladha@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ravirajladha](https://linkedin.com/in/ravirajladha)
-- **Portfolio**: [yourdomain.com](https://yourdomain.com)
+- **Portfolio**: [yourdomain.com](https://ravirajladha.com)
 
 Explore my [Portfolio List](https://github.com/ravirajladha?tab=stars) for more projects!
