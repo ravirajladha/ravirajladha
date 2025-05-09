@@ -17,17 +17,17 @@ I'm a passionate **Full-Stack Developer** with **3+ years** of experience, speci
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="PHP" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Laravel" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="React" width="40" height="40"/> 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNode.js&psig=AOvVaw0ithdCNZhiqHc49Q1Uql9s&ust=1746913563373000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDlva2ul40DFQAAAAAdAAAAABAE" alt="Node.js" width="40" height="40"/> 
+  <!-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNode.js&psig=AOvVaw0ithdCNZhiqHc49Q1Uql9s&ust=1746913563373000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDlva2ul40DFQAAAAAdAAAAABAE" alt="Node.js" width="40" height="40"/>  -->
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express.js" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="JavaScript" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="HTML" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="40" height="40"/> 
-  <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915ad.png" alt="Django" width="40" height="40"/> 
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99c8-46d7-8b07-d88a32f915a8.png" alt="Bootstrap" width="40" height="40"/> 
+  <!-- <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915ad.png" alt="Django" width="40" height="40"/>  -->
+  <!-- <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99c8-46d7-8b07-d88a32f915a8.png" alt="Bootstrap" width="40" height="40"/>  -->
   <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="CSS" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="40" height="40"/> 
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7b6148a31.png" alt="MongoDB" width="40" height="40"/> 
+  <!-- <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7b6148a31.png" alt="MongoDB" width="40" height="40"/>  -->
   <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Git" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="Docker" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="AWS" width="40" height="40"/> 
