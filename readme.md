@@ -35,11 +35,11 @@ I'm a passionate **Full-Stack Developer** with **3+ years** of experience, speci
 </div>
 
 ## 🚀 Featured Projects
-- **[Digital Doctor Clinic Telemedicine Platform](https://github.com/ravirajladha/Digital-Doctor-Clinic)**: A Laravel-based telemedicine platform with video calling, enabling 1,000+ monthly consultations. [Watch Demo Series](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
-- **[AVAtoms Learning Management System](https://github.com/ravirajladha/abc-frontend-lrs)**: A full-stack LMS for 10,000+ students, featuring video lessons, code editor, and job applications. [Watch Demo Series](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
-- **[Vishvin Stock Management System](https://github.com/ravirajladha/VishvinStockManagement)**: A Laravel app for electricity meter inventory management in Karnataka households. [Watch Demo Series](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+- **[Digital Doctor Clinic Telemedicine Platform](https://github.com/ravirajladha/Digital-Doctor-Clinic)**: A Laravel-based telemedicine platform with video calling, enabling 1,000+ monthly consultations. 
+- **[AVAtoms Learning Management System](https://github.com/ravirajladha/abc-frontend-lrs)**: A full-stack LMS for 10,000+ students, featuring video lessons, code editor, and job applications.
+- **[Vishvin Stock Management System](https://github.com/ravirajladha/VishvinStockManagement)**: A Laravel app for electricity meter inventory management in Karnataka households. 
 - **[LandVault Document Management](https://github.com/ravirajladha/LandVault)**: A Laravel-based portal for managing land documents with PDF uploads and reporting. [Watch Demo Series](https://www.youtube.com/watch?v=WLCXnttiWdY&list=PLBvkqKB4HJMol-vYww0nNmnxXB4Kb0w6D&pp=gAQB)
-- **[Resume Check AI Analyzer](https://github.com/ravirajladha/resume-check)**: A Laravel app using OpenAI to analyze resumes against job descriptions.
+<!-- - **[Resume Check AI Analyzer](https://github.com/ravirajladha/resume-check)**: A Laravel app using OpenAI to analyze resumes against job descriptions. -->
 - **[Oodles Files Quiz Platform](https://github.com/ravirajladha/oodles_files)**: A PHP MVC quiz platform for 5,000+ students.
 
 Explore more in my [Portfolio List](https://github.com/ravirajladha?tab=stars)!
