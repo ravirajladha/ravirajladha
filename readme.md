@@ -17,7 +17,7 @@ I'm a passionate **Full-Stack Developer** with **3+ years** of experience, speci
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="PHP" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Laravel" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="React" width="40" height="40"/> 
-  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a0-0d7e-4d1a-9028-c8c216b0693f.png" alt="Node.js" width="40" height="40"/> 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNode.js&psig=AOvVaw0ithdCNZhiqHc49Q1Uql9s&ust=1746913563373000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDlva2ul40DFQAAAAAdAAAAABAE" alt="Node.js" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express.js" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="JavaScript" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="HTML" width="40" height="40"/> 
